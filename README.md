@@ -1,2 +1,2 @@
-# Hospital Management System
- 
+# Group6
+
